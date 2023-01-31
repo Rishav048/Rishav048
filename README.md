@@ -128,10 +128,19 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishav048&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Rishav_Chakraborty"/></p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav048&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Rishav_Chakraborty"/></p></a> 
-
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishav048&theme=react-dark&hide_border=true" />
+  </a>
+  
+  ## Github Metrics
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishav048&theme=github_dark" />
+</p>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!-- Thank You -->
-<br><br>
+<br>
 
 ## Thanks for visiting...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
