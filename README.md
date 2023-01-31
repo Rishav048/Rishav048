@@ -87,6 +87,24 @@
 </p>
 <h3 align="center"></h3>
 <p align="center">
-  
- 
 </p>
+
+ <!-- Contact Me Sec -->
+
+ <h2 align="center">Connect with me:</h2>
+<p align="center">
+   <a href="https://rishav048.github.io/" target="blank" >
+  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+<a href="https://twitter.com/RishavC90800110" target="blank" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+<a href="https://www.linkedin.com/in/rishav-chakraborty048/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+   <a href="https://www.instagram.com/rishav048/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+</p>
+
+<br><br>
