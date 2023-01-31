@@ -117,5 +117,6 @@
 <h2 align="center">My GitHub Stats 📊</h2>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rishav048&theme=onedark&column=6&margin-w=15&margin-h=50" alt="Rishav_Chakraborty" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav048&theme=chartreuse-dark" alt="Rishav_Chakraborty"/>
-<p></p></a> 
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav048&theme=chartreuse-dark" alt="Rishav_Chakraborty"/></p></a> 
