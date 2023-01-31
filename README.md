@@ -3,6 +3,9 @@
 <div width='90%', height-='300px'  >
 <img src="https://camo.githubusercontent.com/2d74e5bb8437158e8e03f146db949b974c13df30804383207563ec797213182c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966" width="100%" height="100%"  ></div>
 <h1 align="center">Hey there, I'm Rishav Chakraborty<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Deve...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS & React. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
 <br>
@@ -15,6 +18,7 @@
 <a href="#"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" ></a>
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Rishav Chakraborty" /></a> </p>
 
+- 🔭 I’m currently preparing for placements!
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 💬 Ask me about **MERN, Backend**
@@ -27,6 +31,37 @@
 
 - ⚡ Fun fact Crazy for coding
 <br>
+
+<!-- Contact Me Sec -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+ <h2 align="center">Let's Connect:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="margin-bottom: -8.5px" ></h2>
+<p align="center">
+   <a href="https://rishav048.github.io/" target="blank" >
+  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+<a href="https://twitter.com/RishavC90800110" target="blank" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+<a href="https://www.linkedin.com/in/rishav-chakraborty048/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+  <a title="chakrabortyrishav048@gmail.com" href="mailto:getsaurabhpagrut@gmai.com">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="30" width="32"/>
+    </a>
+   <a href="https://www.instagram.com/rishav048/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
+  </a>
+</p>
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
+<br />
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!-- Tech Stack Section  -->
 
@@ -79,29 +114,7 @@
 
 
 
- <!-- Contact Me Sec -->
-
- <h2 align="center">Let's Connect:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="margin-bottom: -8.5px" ></h2>
-<p align="center">
-   <a href="https://rishav048.github.io/" target="blank" >
-  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-<a href="https://twitter.com/RishavC90800110" target="blank" >
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-<a href="https://www.linkedin.com/in/rishav-chakraborty048/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-  <a title="chakrabortyrishav048@gmail.com" href="mailto:getsaurabhpagrut@gmai.com">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="30" width="32"/>
-    </a>
-   <a href="https://www.instagram.com/rishav048/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-</p>
-<br><br>
-
-
+ 
  <!------ Contact Me Sec Section ------>
 
 <a href="#">
