@@ -27,8 +27,7 @@
 <!-- Tech Stack Section  -->
 
 
-<h2 align="center">Tech Toolbox 🧰</h2><br>
-
+<h2 align="center">Tech Toolbox 🧰</h2>
 
 <p align='center'>
 
@@ -38,13 +37,18 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-1572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"
+      alt="TypeScript"/>
+  </a>
+  
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
   </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+      alt="css"/>
   </a>
 </p>
 <h3 align="center">Frontend</h3>
@@ -59,10 +63,7 @@
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
+  
 </p>
   
   <h3 align="center">Backend</h3>
