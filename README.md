@@ -93,7 +93,7 @@
 
  <!-- Contact Me Sec -->
 
- <h2 align="center">Connect with me:</h2>
+ <h2 align="center">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="margin-bottom: -8.5px" ></h2>
 <p align="center">
    <a href="https://rishav048.github.io/" target="blank" >
   <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Rishav_Chakraborty" height="30" width="40" />
@@ -104,6 +104,9 @@
 <a href="https://www.linkedin.com/in/rishav-chakraborty048/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav_Chakraborty" height="30" width="40" />
   </a>
+  <a title="chakrabortyrishav048@gmail.com" href="mailto:getsaurabhpagrut@gmai.com">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="25" width="30"/>
+    </a>
    <a href="https://www.instagram.com/rishav048/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
   </a>
@@ -119,4 +122,21 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rishav048&theme=onedark&column=6&margin-w=15&margin-h=50" alt="Rishav_Chakraborty" /></p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav048&theme=chartreuse-dark" alt="Rishav_Chakraborty"/></p></a> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav048&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Rishav_Chakraborty"/></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishav048&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Rishav_Chakraborty"/></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav048&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Rishav_Chakraborty"/></p></a> 
+
+
+<!-- Thank You -->
+<br><br>
+
+## Thanks for visiting...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
