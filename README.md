@@ -88,6 +88,8 @@
 <h3 align="center"></h3>
 <p align="center">
 </p>
+<br>
+<br>
 
  <!-- Contact Me Sec -->
 
@@ -106,5 +108,14 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
   </a>
 </p>
-
 <br><br>
+
+
+ <!------ Contact Me Sec Section ------>
+
+<a href="#">
+<h2 align="center">My GitHub Stats 📊</h2>
+<br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rishav048&theme=onedark&column=6&margin-w=15&margin-h=50" alt="Rishav_Chakraborty" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav048&theme=chartreuse-dark" alt="Rishav_Chakraborty"/>
+<p></p></a> 
