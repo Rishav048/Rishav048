@@ -1,4 +1,5 @@
  <!-- Home Section  -->
+
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishav048.github.io)
 
 <h1 align="left">Hey there, I'm Rishav Chakraborty<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -11,10 +12,10 @@
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 <br><br>
 
-
 <!-- About Section  -->
 
 <a href="#"><img align="right" alt="Coding" width="300" height='330px' src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" ></a>
+
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Rishav Chakraborty" /></a> </p>
 
 - 🔭 I’m currently preparing for placements!
@@ -29,7 +30,7 @@
 - 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://rishav048.github.io/)
 
 - ⚡ Fun fact Crazy for coding
-<br>
+  <br>
 
 <!-- Contact Me Sec -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -55,15 +56,12 @@
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-
 <br />
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+<img src="./grid-snake.svg" />
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!-- Tech Stack Section  -->
-
 
 <h2 align="center">Tech Toolbox 🧰</h2>
 
@@ -109,11 +107,8 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- 
 
 
-
- 
  <!------ Contact Me Sec Section ------>
 
 <a href="#">
@@ -140,10 +135,10 @@
 
 <!-- Thank You -->
 
-
 ## Thanks for visiting...😃 :<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
