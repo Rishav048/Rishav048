@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **chakrabortyrishav048@gmail.com**
 
-- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1Cf-LzAsffKnlKtRYU2TxMHSyGsM6NTqI/view?usp=share_link)
+- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1MKQsLhKH8YgK0kjiFeA_bsfdPTwVmrUa/view?usp=share_link)
 
 - 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://rishav048.github.io/)
 
@@ -107,7 +107,6 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 
  <!------ Contact Me Sec Section ------>
 
