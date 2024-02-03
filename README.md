@@ -25,9 +25,7 @@
 
 - 📫 How to reach me **chakrabortyrishav048@gmail.com**
 
-- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1MKQsLhKH8YgK0kjiFeA_bsfdPTwVmrUa/view?usp=share_link)
-
-- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://rishav048.github.io/)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact Crazy for coding
   <br>
@@ -35,24 +33,9 @@
 <!-- Contact Me Sec -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
- <h2 align="center">Let's Connect:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="margin-bottom: -8.5px" ></h2>
-<p align="center">
-   <a href="https://rishav048.github.io/" target="blank" >
-  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-<a href="https://twitter.com/RishavC90800110" target="blank" >
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-<a href="https://www.linkedin.com/in/rishav-chakraborty048/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-  <a title="chakrabortyrishav048@gmail.com" href="mailto:chakrabortyrishav048@gmail.com">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="30" width="32"/>
-    </a>
-   <a href="https://www.instagram.com/rishav048/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishav_Chakraborty" height="30" width="40" />
-  </a>
-</p>
+ 
+
+ 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
