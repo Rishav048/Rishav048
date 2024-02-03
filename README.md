@@ -23,8 +23,6 @@
 
 - 💬 Ask me about **MERN, Backend**
 
-- 📫 How to reach me **chakrabortyrishav048@gmail.com**
-
 - 📄 Know about my experiences
 
 - ⚡ Fun fact Crazy for coding
